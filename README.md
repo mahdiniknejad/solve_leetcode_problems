@@ -1,5 +1,7 @@
 # Solve LeetCode Problems With Deferent Logics and Programming Languages
 
+## The Solved Problems List
+* Two Sum
 
 ### the structure tree of the files path
 ```
