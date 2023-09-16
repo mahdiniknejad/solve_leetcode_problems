@@ -2,6 +2,7 @@
 
 ## The Solved Problems List
 * Zig-Zag
+* Reverse Integer
 
 ### the structure tree of the files path
 ```
