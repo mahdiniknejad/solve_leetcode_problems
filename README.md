@@ -1,7 +1,7 @@
 # Solve LeetCode Problems With Deferent Logics and Programming Languages
 
 ## The Solved Problems List
-* Two Sum
+* Zig-Zag
 
 ### the structure tree of the files path
 ```
